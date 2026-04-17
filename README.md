@@ -41,6 +41,6 @@ Deliverables:
 
 The Python program source files.
 The zooPopulation.txt report.
-A YouTube video that explains your program's architecture, the rationale behind your function implementations, and a live demonstration showcasing its execution. This narrative will enrich your portfolio, giving voice to your coding journey and insights.
+A YouTube video (attach to your module reflection discussion post) that explains your program's architecture, the rationale behind your function implementations, and a live demonstration showcasing its execution. This narrative will enrich your portfolio, giving voice to your coding journey and insights.
 
 Encouragement Note: This project is your canvas—paint it with the skills, creativity, and passion for coding you possess. Envision presenting your "Zookeeper's Challenge" project in professional or academic settings, showcasing your initiative, problem-solving capabilities, and attention to detail.
